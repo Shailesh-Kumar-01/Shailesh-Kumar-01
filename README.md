@@ -1,22 +1,22 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
+<h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
+<h3 align="center">A passionate Data Scientist/Analyst from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-kumar-01&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-kumar-01" /> </p>
 
+- 🔭 I’m currently working on **something intresting**
 
+- 🌱 I’m currently learning **Deep Learning Techniques**
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
+- 💬 Ask me about **ML models, Tableau**
 
+- 📫 How to reach me **shaileshmk1993@gmail.com**
 
----
-### Hi there 👋I'm Shailesh Kumar, I am an Engineer with 3+ years of work experience in Analytics. I also hold a Diploma degree in Data Science from Steinbeis Global Institute Tübingen.I have worked on various ML projects during my Data Science studies and internship. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shailesh33k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh33k" height="30" width="40" /></a>
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on something intresting 
-- 🌱 I’m currently learning Deep Learning Techniques
-- 💬 Ask me about ML algorithms, Tableau 
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/shailesh33k)
-- 😄 Pronouns: He/Him
-Languages and Tools Used:
-[py]
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shailesh-kumar-01&show_icons=true&locale=en&layout=compact" alt="shailesh-kumar-01" /></p>
