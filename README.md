@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailesh-kumar-01&label=Profile%20views&color=0e75b6&style=flat" alt="shailesh-kumar-01" /> </p>
 
-(img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif")
+<img align="right" alt="Coding" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 
 - 🔭 I’m currently working on **something intresting**
