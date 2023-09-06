@@ -1,4 +1,7 @@
-<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif">
+#<img align="center" alt="Coding" width="200" src="https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif">
+<!--<h3 align="center">
+![image](https://https://cdn.dribbble.com/users/247591/screenshots/4505719/earthdaykid.gif)
+#</h3> -->
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 <h3 align="center">A passionate Data Scientist/Analyst from India</h3>
 
