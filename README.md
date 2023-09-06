@@ -1,4 +1,5 @@
-<img align="centre" alt="Coding" width="200" src="https://cdn.dribbble.com/users/29260/screenshots/916552/earth.gif">
+<p style="text-align:center;"><img src="https://cdn.dribbble.com/users/29260/screenshots/916552/earth.gif"></p>
+#<img align="centre" alt="Coding" width="200" src="https://cdn.dribbble.com/users/29260/screenshots/916552/earth.gif">
 <h1 align="center">Hi 👋, I'm Shailesh Kumar</h1>
 <h3 align="center">A passionate Data Scientist/Analyst from India</h3>
 
